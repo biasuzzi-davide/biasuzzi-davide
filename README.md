@@ -22,7 +22,7 @@
 
 ```
 $ whoami
-├── 🎓  Laurea       → in dirittura d'arrivo (2ª metà 2026)
+├── 🎓  Laurea       → in dirittura d'arrivo
 ├── 🛠️   Lavoro       → gestione sistemi & supporto IT (settore arredamento)
 ├── 📈  Obiettivo    → libera professione su progetti Web & Cloud
 └── ☕  Status       → compiling...
