@@ -23,9 +23,9 @@
 ```
 $ whoami
 ├── 🎓  Laurea       → in dirittura d'arrivo
-├── 🛠️   Lavoro       → gestione sistemi & supporto IT (settore arredamento)
+├── 🛠️   Lavoro      → gestione sistemi & supporto IT (settore arredamento)
 ├── 📈  Obiettivo    → libera professione su progetti Web & Cloud
-└── ☕  Status       → compiling...
+└── ☕  Status        → compiling...
 ```
 
 ---
