@@ -5,7 +5,7 @@
                 ┗━┛╹╹ ╹┗━┛┗━┛┗━╸┗━╸╹
 ├── Davide Biasuzzi · Software Developer Freelancer
 ├── 📍 Veneto, Italia
-├── 🎓 Informatica @ Università di Padova
+├── 🎓 Laureato in Informatica @ Università di Padova
 └── 🛠️  Tecnico IT · Sviluppo Web & Cloud
 </pre>
 </td></tr></table>
@@ -18,14 +18,14 @@
 
 ### 👋 Ciao, sono Davide
 
-**Software Developer freelance** con una forte passione per lo sviluppo web e l'automazione. Attualmente divido il mio tempo tra la gestione dell'infrastruttura IT in ambito aziendale e il completamento della laurea triennale in Computer Science.
+**Software Developer freelance** con una forte passione per lo sviluppo web e l'automazione.
 
 ```
 $ whoami
-├── 🎓  Laurea       → in dirittura d'arrivo
-├── 🛠️   Lavoro      → gestione sistemi & supporto IT (settore arredamento)
-├── 📈  Obiettivo    → libera professione su progetti Web & Cloud
-└── ☕  Status        → compiling...
+├── 🎓  Formazione  → Informatica @ UniPD
+├── 📚  Next step   → MSc in Computer Engineering @ UniPD
+├── 🛠️   Lavoro     → Software Engineering & IT consultant Freelancer
+└── ☕  Status       → Disponibile per nuovi progetti
 ```
 
 ---
